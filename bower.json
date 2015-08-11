@@ -2,6 +2,6 @@
     "name": "jquery-ui-slider",
     "description": "jQuery UI Slider",
     "dependencies": {
-        "jquery": "git@github.com:m1ke/jquery-bower.git"
+        "jquery": "https://github.com/m1ke/jquery-bower.git"
     }
 }
